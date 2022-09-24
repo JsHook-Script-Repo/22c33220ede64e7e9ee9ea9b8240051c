@@ -1,16 +1,10 @@
-# 我的勇者mod
-
-支持所有客户端，国服(所有渠道服)，台服，国际服，东南亚服
+# 江南百景图mod
 
 ## 环境要求
 
 - jshook版本>=1.0.18
 
 - fridamod>=15.2.2.1
-
-## 效果视频
-
-[https://youtu.be/mVvIpN_Tkz4](https://youtu.be/mVvIpN_Tkz4)（需要翻墙观看）
 
 ## 注意
 
@@ -20,7 +14,7 @@
 
 ## 客户端
 
-国服  包名：com.cis.jiangnan.taptap 下载地址：[https://www.taptap.com/search/%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE)
+国服  包名：com.cis.jiangnan.taptap 下载地址：[https://www.taptap.com/search/%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE](https://www.taptap.com/search/%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE)
 
 ## 功能列表：
 
